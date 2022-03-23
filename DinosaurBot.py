@@ -8,7 +8,7 @@ import pyautogui
 from PIL import ImageGrab
 from webdriver_manager.chrome import ChromeDriverManager
 
-class Coordinates:
+class Coordinates: 
     replay_btn = (340,390)
 
 def restartGame():
